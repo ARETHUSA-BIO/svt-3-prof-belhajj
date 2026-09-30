@@ -1,0 +1,14 @@
+{
+  "name": "SVT 3 — Prof. Belhajj",
+  "short_name": "SVT 3",
+  "description": "Quiz interactif de SVT — 3e année Sciences expérimentales, Tunisie.",
+  "lang": "fr-TN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#147c66",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,215 @@
+# FICHIER COMPLET – PROMPT + 180 QCM SVT
+# Projet : Webapp interactive de quiz pour la 3ème année Sciences Expérimentales – Tunisie
+# Matière : Sciences de la Vie et de la Terre (SVT)
+# Contenu : Prompt pour Manus + 3 thèmes × 60 QCM = 180 QCM avec corrections
+
+---
+
+## PARTIE 1 – PROMPT POUR MANUS
+
+Tu es un développeur pédagogique et un expert en ingénierie didactique. Crée une webapp interactive de quiz pour les élèves de 3ème année Sciences Expérimentales en Tunisie, matière Sciences de la Vie et de la Terre (SVT). La webapp doit être basée sur les 180 QCM fournis dans le contexte (3 thèmes : Nutrition et Santé, Information Génétique, Dynamique du Globe Terrestre et Évolution Biologique ; 60 questions par thème, avec corrections et explications). Si les données ne sont pas présentes, importe-les depuis le fichier JSON que je te fournirai ci-dessous.
+
+### 1. Objectifs pédagogiques
+- Réviser les notions clés du programme officiel tunisien de SVT (3ème année Sciences Expérimentales).
+- Permettre à l’élève de s’auto-évaluer par thème ou en mode examen complet.
+- Fournir une correction immédiate, détaillée et bienveillante pour chaque question.
+- Favoriser la mémorisation active, la remédiation et la progression.
+- Aligner chaque question sur les objectifs du programme : nutrition, homéostasie, génétique, tectonique des plaques, évolution.
+
+### 2. Objectifs didactiques
+- Progression claire : choix du thème → quiz → correction → bilan.
+- Feedback immédiat après chaque réponse : bonne/mauvaise, explication courte, rappel de cours.
+- Possibilité de refaire le quiz, de revoir les erreurs, de consulter un récapitulatif.
+- Randomisation des questions et des propositions pour éviter la mémorisation de l’ordre.
+- Score final avec pourcentage, nombre de bonnes réponses, temps passé.
+- Badges de réussite (ex. "Expert en Nutrition", "Génie Génétique", "Maître du Globe") pour motiver sans stress.
+- Accessibilité : police lisible, contraste élevé, navigation clavier, compatibilité mobile.
+
+### 3. Fonctionnalités de la webapp
+- Écran d’accueil : titre, description, choix du thème (3 boutons) + mode "Examen complet" (180 questions).
+- Écran de quiz : question, options (QCM à choix multiples ou Vrai/Faux), validation, feedback immédiat, barre de progression.
+- Écran de correction : explication pédagogique, référence au cours, image illustrative si pertinente.
+- Écran de bilan : score, statistiques par thème, liste des erreurs, bouton "Recommencer" et "Revoir mes erreurs".
+- Sauvegarde locale de la progression (localStorage) sans création de compte.
+- Mode sombre/clair automatique.
+- Interface en français, simple, colorée mais non distrayante.
+
+### 4. Illustrations réelles de l’internet (kids safe)
+- Pour chaque question, si une illustration est pertinente, recherche une image réelle éducative sur Internet.
+- Sources autorisées et sûres : Wikimedia Commons, Unsplash (SafeSearch), Pexels, Pixabay, ou banques d’images éducatives libres de droits.
+- Filtrage strict : aucune image violente, sexuelle, haineuse, effrayante ou inappropriée pour des mineurs.
+- Vérifie que l’image est bien adaptée à l’âge (12-15 ans) et au contexte scolaire tunisien.
+- Ajoute un texte alternatif (alt) descriptif pour l’accessibilité.
+- Si aucune image sûre n’est trouvée, utilise une icône SVG éducative (ex. ADN, estomac, plaque tectonique).
+- Les images doivent être intégrées directement dans l’app (pas de lien externe cliquable). Utilise un proxy ou télécharge-les localement si possible.
+- Exemples d’illustrations : système digestif, villosités intestinales, structure de l’ADN, réplication, tectonique des plaques, couches de la Terre, fossiles.
+
+### 5. Sécurité enfants (Kids Safe)
+- Aucune publicité, aucun traqueur, aucun cookie tiers.
+- Aucune collecte de données personnelles. Pas de login, pas d’email, pas de nom.
+- Pas de chat, pas de commentaires, pas de contenu généré par les utilisateurs.
+- Pas de liens sortants vers des sites externes.
+- Toutes les images sont filtrées et vérifiées.
+- L’application fonctionne hors ligne après le premier chargement (PWA si possible).
+- Conforme aux principes COPPA / RGPD pour les mineurs.
+
+### 6. Contraintes techniques
+- Application web responsive (mobile, tablette, ordinateur).
+- Technologies : HTML, CSS, JavaScript (ou React/Vue si tu préfères), stockage local.
+- Code propre, commenté, facile à modifier.
+- Structure de données JSON pour les questions :
+```json
+{
+  "themes": [
+    {
+      "id": "nutrition",
+      "titre": "Nutrition et Santé",
+      "questions": [
+        {
+          "id": 1,
+          "type": "qcm",
+          "question": "Les fibres végétales :",
+          "options": ["facilitent le transit intestinal", "provoquent le cancer", "sont recommandées par les nutritionnistes", "sont en excès dans notre alimentation"],
+          "reponses_correctes": [0, 2],
+          "explication": "Les fibres facilitent le transit et sont recommandées, mais ne provoquent pas le cancer et ne sont pas en excès.",
+          "image_query": "fibres végétales alimentation",
+          "image_url": ""
+        }
+      ]
+    }
+  ]
+}
+```
+- Prévois un fichier `questions.json` séparé pour faciliter la mise à jour.
+
+### 7. Livrables attendus
+- Un dossier complet avec `index.html`, `style.css`, `script.js`, `questions.json`.
+- Un fichier `README.md` expliquant comment lancer l’app, ajouter des questions et modifier les images.
+- Une démonstration fonctionnelle avec au moins un thème complet (60 questions) et des images réelles sûres.
+- Un rapport de vérification pédagogique et didactique des questions.
+
+### 8. Données QCM
+Utilise les 180 QCM fournis ci-dessous.
+
+Commence par créer la structure de l’application, puis intègre les questions, les corrections et les images. Vérifie chaque question sur le plan terminologique et pédagogique. Assure-toi que tout est adapté aux élèves tunisiens de 3ème année Sciences Expérimentales.
+
+---
+
+## PARTIE 2 – 180 QCM SVT AVEC CORRECTIONS
+
+# THÈME 1 : NUTRITION ET SANTÉ – 60 QCM
+
+1. Les fibres végétales : a) facilitent le transit intestinal. b) provoquent le cancer. c) sont recommandées par les nutritionnistes. d) sont en excès dans notre alimentation. **Réponse : a, c**
+2. La réaction de biuret caractérise : a) les oses. b) les acides aminés. c) les acides gras. d) les protides. **Réponse : d**
+3. Un acide aminé : a) entre dans la composition des lipides. b) est hydrolysable. c) donne une réaction positive avec le test du biuret. d) entre dans la composition des protéines. **Réponse : b, d**
+4. Un nutriment est dit essentiel car il : a) doit être apporté par l’alimentation. b) peut être synthétisé par l’organisme. c) peut être remplacé par un autre. d) est identique chez toutes les espèces. **Réponse : a**
+5. Un lipide est : a) une chaîne d’acides gras liés par des liaisons peptidiques. b) une chaîne d’acides gras seulement liés. c) une chaîne d’acides gras et d’alcool liés. d) une chaîne d’acides aminés et d’alcool liés. **Réponse : c**
+6. L’athérome est : a) une plaque d’acides gras dans la veine. b) une plaque de graisse dans l’artère. c) une plaque de protide dans le vaisseau sanguin. d) une plaque de glucides dans le vaisseau sanguin. **Réponse : b**
+7. L’hydrolyse d’un dipeptide : a) libère une molécule d’eau. b) nécessite une molécule d’eau. c) libère deux molécules d’eau. d) nécessite deux molécules d’eau. **Réponse : b**
+8. La réaction xanthoprotéique est positive dans le cas : a) des oses. b) des acides aminés. c) des acides gras. d) de l’amidon. **Réponse : b**
+9. Les vitamines sont des substances organiques énergétiques indispensables à l’organisme en faible dose. **Vrai/Faux** **Réponse : Faux**
+10. L’action de la pepsine exige l’acidification du milieu. **Vrai/Faux** **Réponse : Vrai**
+11. Le blanc d’œuf se transforme en acides aminés seulement sous l’action des enzymes de l’estomac. **Vrai/Faux** **Réponse : Faux**
+12. La vitesse enzymatique dépend uniquement de la concentration de l’enzyme. **Vrai/Faux** **Réponse : Faux**
+13. La villosité intestinale est le siège de la digestion. **Vrai/Faux** **Réponse : Faux**
+14. La ration énergétique d’un adulte doit être composée de 200 à 320 g de protides, 55 à 90 g de lipides et 50 à 80 g de glucides. **Vrai/Faux** **Réponse : Faux**
+15. Le goitre est une maladie causée par une carence en iode. **Vrai/Faux** **Réponse : Vrai**
+16. Le désoxyribose est un hexose. **Vrai/Faux** **Réponse : Faux**
+17. Les acides gras saturés augmentent le taux du mauvais cholestérol. **Vrai/Faux** **Réponse : Vrai**
+18. Le lactose est un sucre réducteur. **Vrai/Faux** **Réponse : Vrai**
+19. L’hydrolyse du lactose libère seulement du glucose. **Vrai/Faux** **Réponse : Faux**
+20. L’athérosclérose est due à un dépôt de graisse surtout dans les espaces sous-cutanés. **Vrai/Faux** **Réponse : Faux**
+21. Le glycogène est mis en réserve dans les cellules végétales. **Vrai/Faux** **Réponse : Faux**
+22. Le pourcentage de sujets hypertendus diminue quand le poids augmente. **Vrai/Faux** **Réponse : Faux**
+23. Le rachitisme résulte d’une carence en vitamine D. **Vrai/Faux** **Réponse : Vrai**
+24. Le galactose est un pentose de formule chimique C₆H₁₀O₅. **Vrai/Faux** **Réponse : Faux**
+25. L’hémoglobine est une protéine fonctionnelle. **Vrai/Faux** **Réponse : Vrai**
+26. L’actine est une protéine de structure. **Vrai/Faux** **Réponse : Vrai**
+27. L’huile d’olive diminue le risque des maladies cardiovasculaires. **Vrai/Faux** **Réponse : Vrai**
+28. L’huile d’olive est un mélange de palmitine et d’oléine : c’est un lipide complexe. **Vrai/Faux** **Réponse : Faux**
+29. Les acides gras insaturés préviennent contre l’infarctus du myocarde. **Vrai/Faux** **Réponse : Vrai**
+30. L’anorexie mentale est une forme de carence involontaire. **Vrai/Faux** **Réponse : Faux**
+31. Le grignotage entre les repas augmente le risque de l’obésité. **Vrai/Faux** **Réponse : Vrai**
+32. L’alimentation méditerranéenne préserve de façon spectaculaire la santé de l’Homme. **Vrai/Faux** **Réponse : Vrai**
+33. Le kwashiorkor est dû à une carence en lipide. **Vrai/Faux** **Réponse : Faux**
+34. Les hétéroprotéines sont des polymères d’acides aminés. **Vrai/Faux** **Réponse : Vrai**
+35. Une carence alimentaire est un état pathologique dû à une insuffisance d’apport ou d’absorption d’un ou plusieurs nutriments essentiels. **Définition**
+36. Un dipeptide est une molécule formée par la liaison de deux acides aminés par une liaison peptidique. **Définition**
+37. La digestion est l’ensemble des transformations mécaniques et chimiques que subissent les aliments dans le tube digestif pour être absorbés. **Définition**
+38. L’absorption intestinale est le passage des nutriments à travers la paroi de l’intestin grêle vers le sang et la lymphe. **Définition**
+39. La respiration cellulaire est un ensemble de réactions chimiques qui libèrent de l’énergie à partir de la dégradation des nutriments en présence d’oxygène. **Définition**
+40. L’homéostasie est la capacité de l’organisme à maintenir son milieu intérieur constant malgré les variations externes. **Définition**
+41. La glycémie est le taux de glucose dans le sang, normalement compris entre 0,8 et 1,1 g/L à jeun. **Définition**
+42. Le diabète est une maladie chronique caractérisée par une hyperglycémie due à un défaut de sécrétion ou d’action de l’insuline. **Définition**
+43. L’excrétion urinaire est l’élimination des déchets du métabolisme par les reins sous forme d’urine. **Définition**
+44. Le rôle du foie dans la régulation de la glycémie : a) stocke le glucose sous forme de glycogène. b) libère du glucose dans le sang. c) produit de l’insuline. d) dégrade l’insuline. **Réponse : a, b**
+45. Le rôle du pancréas dans la régulation de la glycémie : a) sécrète le glucagon. b) sécrète l’insuline. c) stocke le glycogène. d) filtre le sang. **Réponse : a, b**
+46. Les effets biologiques de l’insuline : a) hypoglycémiant. b) hyperglycémiant. c) favorise le stockage du glucose. d) favorise la libération du glucose. **Réponse : a, c**
+47. Les effets biologiques du glucagon : a) hypoglycémiant. b) hyperglycémiant. c) favorise le stockage du glucose. d) favorise la libération du glucose. **Réponse : b, d**
+48. Le diabète de type 1 : a) est insulinodépendant. b) survient généralement chez l’enfant. c) est dû à une résistance à l’insuline. d) nécessite des injections d’insuline. **Réponse : a, b, d**
+49. Le diabète de type 2 : a) est non insulinodépendant. b) survient généralement chez l’adulte. c) est dû à une résistance à l’insuline. d) nécessite toujours des injections d’insuline. **Réponse : a, b, c**
+50. Les conseils de prévention du diabète : a) pratiquer une activité physique régulière. b) avoir une alimentation équilibrée. c) éviter les graisses saturées. d) consommer beaucoup de sucres rapides. **Réponse : a, b, c**
+51. La contamination chimique des aliments peut être due à : a) les pesticides. b) les métaux lourds. c) les bactéries. d) les additifs alimentaires. **Réponse : a, b, d**
+52. La contamination biologique des aliments peut être due à : a) les bactéries. b) les virus. c) les parasites. d) les pesticides. **Réponse : a, b, c**
+53. L’utilisation des microorganismes dans les industries alimentaires : a) fabrication du yaourt. b) fabrication du fromage. c) fabrication du pain. d) fabrication du vin. **Réponse : a, b, c, d**
+54. Les risques liés à la contamination des aliments : a) intoxications alimentaires. b) maladies infectieuses. c) allergies. d) carences nutritionnelles. **Réponse : a, b, c**
+55. La malnutrition peut être due à : a) une sous-alimentation. b) une suralimentation. c) une carence en nutriments essentiels. d) une alimentation équilibrée. **Réponse : a, b, c**
+56. La sous-alimentation se caractérise par : a) une insuffisance d’apport énergétique. b) une carence en protéines. c) une obésité. d) un retard de croissance. **Réponse : a, b, d**
+57. La suralimentation se caractérise par : a) un excès d’apport énergétique. b) une obésité. c) des maladies cardiovasculaires. d) une carence en vitamines. **Réponse : a, b, c**
+58. Les besoins qualitatifs en aliments simples : a) dépendent de l’âge. b) dépendent du sexe. c) dépendent de l’activité physique. d) sont identiques pour tous. **Réponse : a, b, c**
+59. Les besoins quantitatifs en aliments simples : a) varient selon l’âge. b) varient selon le sexe. c) varient selon l’activité physique. d) sont constants. **Réponse : a, b, c**
+60. La ration alimentaire équilibrée doit apporter : a) 50-55 % de glucides. b) 30-35 % de lipides. c) 10-15 % de protides. d) 5 % de fibres. **Réponse : a, b, c**
+
+---
+
+# THÈME 2 : INFORMATION GÉNÉTIQUE – 60 QCM
+
+1. L’ARN : a) est un polynucléotide. b) est le support de l’information génétique. c) est une molécule monocaténaire. d) comporte des nucléotides à cytosine, guanine, thymine et uracile. **Réponse : a, c**
+2. Un codon est un triplet de : a) l’ADN. b) l’ARNr. c) l’ARNt. d) l’ARNm. **Réponse : d**
+3. La transcription : a) se déroule dans le noyau. b) se déroule dans le cytoplasme. c) permet la synthèse de plusieurs types d’ARNm. d) permet la synthèse d’une copie conforme de l’ADN. **Réponse : a**
+4. La traduction : a) a lieu dans le noyau. b) nécessite de l’énergie. c) a lieu dans le cytoplasme au niveau des ribosomes. d) commence toujours au niveau du codon initiateur UAA. **Réponse : b, c**
+5. L’ARNm : a) est dissocié après la traduction. b) détermine la synthèse des enzymes. c) présente une séquence d’anticodons. d) est l’acide désoxyribonucléique messager. **Réponse : a, b**
+6. Les substances suivantes sont des acides aminés : a) tyrosine. b) tyrosinase. c) phénylalanine. d) acide phénylcétonurique. **Réponse : a, c**
+7. L’albinisme : a) est un caractère héréditaire. b) résulte de l’absence de mélanine. c) résulte de l’absence de la tyrosine. d) résulte de l’absence de mélanocytes. **Réponse : a, b, d**
+8. La déficience intellectuelle liée à la phénylcétonurie : a) est un caractère héréditaire. b) résulte de l’absence de la tyrosinase. c) résulte de l’absence de la phénylalanine hydroxylase. d) résulte d’une grande consommation de l’acide phénylcétonurique. **Réponse : a, c**
+9. L’ADN est le support de l’information génétique. **Vrai/Faux** **Réponse : Vrai**
+10. L’ADN est une molécule bicaténaire en double hélice. **Vrai/Faux** **Réponse : Vrai**
+11. La réplication de l’ADN est semi-conservative. **Vrai/Faux** **Réponse : Vrai**
+12. La transcription se fait dans le cytoplasme. **Vrai/Faux** **Réponse : Faux**
+13. La traduction se fait dans le noyau. **Vrai/Faux** **Réponse : Faux**
+14. Un gène est une séquence de triplets de bases de l’ADN qui est transcrite en codon d’ARNm et qui détermine la synthèse d’une protéine. **Vrai/Faux** **Réponse : Vrai**
+15. Une mutation est une modification de la séquence de nucléotides de l’ADN. **Vrai/Faux** **Réponse : Vrai**
+16. Une mutation peut être une substitution, une délétion ou une insertion. **Vrai/Faux** **Réponse : Vrai**
+17. La méiose permet la formation de cellules haploïdes. **Vrai/Faux** **Réponse : Vrai**
+18. La fécondation rétablit la diploïdie. **Vrai/Faux** **Réponse : Vrai**
+19. La méiose et la fécondation contribuent à la diversité génétique. **Vrai/Faux** **Réponse : Vrai**
+20. Le brassage interchromosomique se produit en anaphase I. **Vrai/Faux** **Réponse : Vrai**
+21. Le brassage intrachromosomique se produit en prophase I. **Vrai/Faux** **Réponse : Vrai**
+22. La transmission d’un couple d’allèles autosomaux suit les lois de Mendel. **Vrai/Faux** **Réponse : Vrai**
+23. La transmission d’un couple d’allèles lié au sexe est différente chez les hommes et les femmes. **Vrai/Faux** **Réponse : Vrai**
+24. Le phénotype est l’ensemble des caractères observables d’un individu. **Définition**
+25. Le génotype est l’ensemble des gènes d’un individu. **Définition**
+26. Un allèle est une version d’un gène. **Définition**
+27. Un individu homozygote possède deux allèles identiques pour un gène. **Définition**
+28. Un individu hétérozygote possède deux allèles différents pour un gène. **Définition**
+29. La transcription est le processus de synthèse de l’ARNm à partir de l’ADN. **Définition**
+30. La traduction est le processus de synthèse des protéines à partir de l’ARNm. **Définition**
+31. Le code génétique est universel. **Vrai/Faux** **Réponse : Vrai**
+32. Le code génétique est redondant. **Vrai/Faux** **Réponse : Vrai**
+33. Un codon est un triplet de nucléotides de l’ARNm. **Vrai/Faux** **Réponse : Vrai**
+34. Un anticodon est un triplet de nucléotides de l’ARNt. **Vrai/Faux** **Réponse : Vrai**
+35. La réplication de l’ADN se produit avant la division cellulaire. **Vrai/Faux** **Réponse : Vrai**
+36. La mutation est à l’origine de la diversité génétique. **Vrai/Faux** **Réponse : Vrai**
+37. Les techniques du génie génétique permettent de modifier le génome. **Vrai/Faux** **Réponse : Vrai**
+38. Le clonage est une technique de reproduction asexuée. **Vrai/Faux** **Réponse : Vrai**
+39. Les OGM sont des organismes génétiquement modifiés. **Vrai/Faux** **Réponse : Vrai**
+40. La thérapie génique consiste à introduire un gène normal dans les cellules d’un patient. **Vrai/Faux** **Réponse : Vrai**
+41. Les groupes sanguins sont déterminés par des allèles. **Vrai/Faux** **Réponse : Vrai**
+42. Le groupe sanguin O est caractérisé par l’absence d’antigènes A et B. **Vrai/Faux** **Réponse : Vrai**
+43. Le groupe sanguin AB est caractérisé par la présence des antigènes A et B. **Vrai/Faux** **Réponse : Vrai**
+44. La mucoviscidose est une maladie génétique. **Vrai/Faux** **Réponse : Vrai**
+45. La drépanocytose est une maladie génétique. **Vrai/Faux** **Réponse : Vrai**
+46. La phénylcétonurie est une maladie génétique. **Vrai/Faux** **Réponse : Vrai**
+47. L’albinisme est une maladie génétique. **Vrai/Faux** **Réponse : Vrai**
+48. La transmission autosomale récessive nécessite que les deux parents soient porteurs. **Vrai/Faux** **Réponse : Vrai**
+49. La transmission autosomale dominante se manifeste chez les individus hétérozygotes. **Vrai/Faux

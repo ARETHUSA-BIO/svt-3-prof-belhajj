@@ -1,0 +1,2928 @@
+{
+  "version": 1,
+  "langue": "fr",
+  "niveau": "3ème année Sciences expérimentales — Tunisie",
+  "total_questions": 180,
+  "source_note": "L’annexe fournie s’interrompt après la question 48 du thème Information génétique. Les questions 49–60 de ce thème et les 60 questions du thème Dynamique du globe terrestre et évolution biologique sont des compléments pédagogiques rédigés pour compléter le quiz.",
+  "themes": [
+    {
+      "id": "nutrition",
+      "titre": "Nutrition et santé",
+      "questions": [
+        {
+          "id": 1,
+          "type": "qcm",
+          "question": "Les fibres végétales",
+          "options": [
+            "facilitent le transit intestinal",
+            "provoquent le cancer",
+            "sont recommandées par les nutritionnistes",
+            "sont en excès dans notre alimentation"
+          ],
+          "reponses_correctes": [
+            0,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « facilitent le transit intestinal »; « sont recommandées par les nutritionnistes ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 2,
+          "type": "qcm",
+          "question": "La réaction de biuret caractérise",
+          "options": [
+            "les oses",
+            "les acides aminés",
+            "les acides gras",
+            "les protides"
+          ],
+          "reponses_correctes": [
+            3
+          ],
+          "explication": "Les bonnes propositions sont « les protides ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 3,
+          "type": "qcm",
+          "question": "Un acide aminé",
+          "options": [
+            "entre dans la composition des lipides",
+            "est hydrolysable",
+            "donne une réaction positive avec le test du biuret",
+            "entre dans la composition des protéines"
+          ],
+          "reponses_correctes": [
+            3
+          ],
+          "explication": "Un acide aminé est un constituant des protéines. L’hydrolyse d’une protéine libère des acides aminés ; un acide aminé n’est pas lui-même un polymère hydrolysable en acides aminés.",
+          "origine": "fourni",
+          "theme": "nutrition",
+          "note_pedagogique": "La clé fournie incluait b ; elle a été corrigée, car l’hydrolyse des protéines libère les acides aminés."
+        },
+        {
+          "id": 4,
+          "type": "qcm",
+          "question": "Un nutriment est dit essentiel car il",
+          "options": [
+            "doit être apporté par l’alimentation",
+            "peut être synthétisé par l’organisme",
+            "peut être remplacé par un autre",
+            "est identique chez toutes les espèces"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les bonnes propositions sont « doit être apporté par l’alimentation ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 5,
+          "type": "qcm",
+          "question": "Un lipide est",
+          "options": [
+            "une chaîne d’acides gras liés par des liaisons peptidiques",
+            "une chaîne d’acides gras seulement liés",
+            "une chaîne d’acides gras et d’alcool liés",
+            "une chaîne d’acides aminés et d’alcool liés"
+          ],
+          "reponses_correctes": [
+            2
+          ],
+          "explication": "Les bonnes propositions sont « une chaîne d’acides gras et d’alcool liés ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 6,
+          "type": "qcm",
+          "question": "L’athérome est",
+          "options": [
+            "une plaque d’acides gras dans la veine",
+            "une plaque de graisse dans l’artère",
+            "une plaque de protide dans le vaisseau sanguin",
+            "une plaque de glucides dans le vaisseau sanguin"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Les bonnes propositions sont « une plaque de graisse dans l’artère ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 7,
+          "type": "qcm",
+          "question": "L’hydrolyse d’un dipeptide",
+          "options": [
+            "libère une molécule d’eau",
+            "nécessite une molécule d’eau",
+            "libère deux molécules d’eau",
+            "nécessite deux molécules d’eau"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Les bonnes propositions sont « nécessite une molécule d’eau ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 8,
+          "type": "qcm",
+          "question": "La réaction xanthoprotéique est positive dans le cas",
+          "options": [
+            "des oses",
+            "certains acides aminés aromatiques",
+            "des acides gras",
+            "de l’amidon"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "La réaction xanthoprotéique met en évidence des noyaux aromatiques, présents dans certains acides aminés comme la tyrosine ou le tryptophane.",
+          "origine": "fourni",
+          "theme": "nutrition",
+          "note_pedagogique": "Le choix fourni « acides aminés » a été précisé : la réaction concerne certains acides aminés aromatiques, pas tous."
+        },
+        {
+          "id": 9,
+          "type": "vrai-faux",
+          "question": "Les vitamines sont des substances organiques énergétiques indispensables à l’organisme en faible dose.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : les vitamines sont des micronutriments indispensables, mais elles ne fournissent pas d’énergie. L’énergie vient notamment des glucides, lipides et protides.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 10,
+          "type": "vrai-faux",
+          "question": "L’action de la pepsine exige l’acidification du milieu.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’action de la pepsine exige l’acidification du milieu. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 11,
+          "type": "vrai-faux",
+          "question": "Le blanc d’œuf se transforme en acides aminés seulement sous l’action des enzymes de l’estomac.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : la digestion des protéines commence dans l’estomac et se poursuit dans l’intestin grêle grâce à d’autres enzymes.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 12,
+          "type": "vrai-faux",
+          "question": "La vitesse enzymatique dépend uniquement de la concentration de l’enzyme.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’activité enzymatique dépend aussi du pH, de la température et de la concentration en substrat, entre autres facteurs.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 13,
+          "type": "vrai-faux",
+          "question": "La villosité intestinale est le siège de la digestion.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : les villosités intestinales augmentent la surface d’absorption ; la digestion se déroule dans la lumière du tube digestif.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 14,
+          "type": "vrai-faux",
+          "question": "La ration énergétique d’un adulte doit être composée de 200 à 320 g de protides, 55 à 90 g de lipides et 50 à 80 g de glucides.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : les quantités indiquées ne correspondent pas à une ration équilibrée ; les besoins dépendent de la personne et les glucides ne se limitent pas à 50–80 g.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 15,
+          "type": "vrai-faux",
+          "question": "Le goitre est une maladie causée par une carence en iode.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le goitre est une maladie causée par une carence en iode. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 16,
+          "type": "vrai-faux",
+          "question": "Le désoxyribose est un hexose.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : le désoxyribose est un pentose (5 carbones), et non un hexose.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 17,
+          "type": "vrai-faux",
+          "question": "Les acides gras saturés augmentent le taux du mauvais cholestérol.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les acides gras saturés augmentent le taux du mauvais cholestérol. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 18,
+          "type": "vrai-faux",
+          "question": "Le lactose est un sucre réducteur.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le lactose est un sucre réducteur. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 19,
+          "type": "vrai-faux",
+          "question": "L’hydrolyse du lactose libère seulement du glucose.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : la phrase confond une étape, une structure ou une fonction. Reprends les mots-clés du cours pour identifier ce qui doit être corrigé.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 20,
+          "type": "vrai-faux",
+          "question": "L’athérosclérose est due à un dépôt de graisse surtout dans les espaces sous-cutanés.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’athérosclérose correspond à des plaques dans la paroi des artères, pas dans les espaces sous-cutanés.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 21,
+          "type": "vrai-faux",
+          "question": "Le glycogène est mis en réserve dans les cellules végétales.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : les animaux stockent le glucose sous forme de glycogène ; les végétaux stockent surtout l’amidon.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 22,
+          "type": "vrai-faux",
+          "question": "Le pourcentage de sujets hypertendus diminue quand le poids augmente.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’excès de poids est associé à un risque plus élevé d’hypertension, pas plus faible.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 23,
+          "type": "vrai-faux",
+          "question": "Le rachitisme résulte d’une carence en vitamine D.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le rachitisme résulte d’une carence en vitamine D. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 24,
+          "type": "vrai-faux",
+          "question": "Le galactose est un pentose de formule chimique C₆H₁₀O₅.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : le galactose est un hexose de formule C₆H₁₂O₆.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 25,
+          "type": "vrai-faux",
+          "question": "L’hémoglobine est une protéine fonctionnelle.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’hémoglobine est une protéine fonctionnelle. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 26,
+          "type": "vrai-faux",
+          "question": "L’actine est une protéine de structure.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’actine est une protéine de structure. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 27,
+          "type": "vrai-faux",
+          "question": "L’huile d’olive diminue le risque des maladies cardiovasculaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’huile d’olive diminue le risque des maladies cardiovasculaires. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 28,
+          "type": "vrai-faux",
+          "question": "L’huile d’olive est un mélange de palmitine et d’oléine : c’est un lipide complexe.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’huile d’olive est principalement un mélange de triglycérides (lipides simples), et non un lipide complexe.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 29,
+          "type": "vrai-faux",
+          "question": "Les acides gras insaturés préviennent contre l’infarctus du myocarde.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les acides gras insaturés préviennent contre l’infarctus du myocarde. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 30,
+          "type": "vrai-faux",
+          "question": "L’anorexie mentale est une forme de carence involontaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’anorexie mentale est un trouble du comportement alimentaire et ne se réduit pas à une carence involontaire.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 31,
+          "type": "vrai-faux",
+          "question": "Le grignotage entre les repas augmente le risque de l’obésité.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le grignotage entre les repas augmente le risque de l’obésité. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 32,
+          "type": "vrai-faux",
+          "question": "L’alimentation méditerranéenne préserve de façon spectaculaire la santé de l’Homme.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’alimentation méditerranéenne préserve de façon spectaculaire la santé de l’Homme. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 33,
+          "type": "vrai-faux",
+          "question": "Le kwashiorkor est dû à une carence en lipide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : le kwashiorkor est principalement associé à une carence sévère en protéines, souvent dans un contexte de malnutrition.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 34,
+          "type": "vrai-faux",
+          "question": "Les hétéroprotéines sont des polymères d’acides aminés.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les hétéroprotéines sont des polymères d’acides aminés. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 35,
+          "type": "vrai-faux",
+          "question": "Une carence alimentaire est un état pathologique dû à une insuffisance d’apport ou d’absorption d’un ou plusieurs nutriments essentiels. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 36,
+          "type": "vrai-faux",
+          "question": "Un dipeptide est une molécule formée par la liaison de deux acides aminés par une liaison peptidique. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 37,
+          "type": "vrai-faux",
+          "question": "La digestion est l’ensemble des transformations mécaniques et chimiques que subissent les aliments dans le tube digestif pour être absorbés. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition",
+          "illustration": {
+            "src": "assets/digestive-system.svg",
+            "alt": "Schéma du système digestif humain",
+            "credit": "Mariana Ruiz (LadyofHats), domaine public, Wikimedia Commons"
+          }
+        },
+        {
+          "id": 38,
+          "type": "vrai-faux",
+          "question": "L’absorption intestinale est le passage des nutriments à travers la paroi de l’intestin grêle vers le sang et la lymphe. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 39,
+          "type": "vrai-faux",
+          "question": "La respiration cellulaire est un ensemble de réactions chimiques qui libèrent de l’énergie à partir de la dégradation des nutriments en présence d’oxygène. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 40,
+          "type": "vrai-faux",
+          "question": "L’homéostasie est la capacité de l’organisme à maintenir son milieu intérieur constant malgré les variations externes. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 41,
+          "type": "vrai-faux",
+          "question": "La glycémie est le taux de glucose dans le sang, normalement compris entre 0,8 et 1,1 g/L à jeun. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 42,
+          "type": "vrai-faux",
+          "question": "Le diabète est une maladie chronique caractérisée par une hyperglycémie due à un défaut de sécrétion ou d’action de l’insuline. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 43,
+          "type": "vrai-faux",
+          "question": "L’excrétion urinaire est l’élimination des déchets du métabolisme par les reins sous forme d’urine. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 44,
+          "type": "qcm",
+          "question": "Le rôle du foie dans la régulation de la glycémie",
+          "options": [
+            "stocke le glucose sous forme de glycogène",
+            "libère du glucose dans le sang",
+            "produit de l’insuline",
+            "dégrade l’insuline"
+          ],
+          "reponses_correctes": [
+            0,
+            1
+          ],
+          "explication": "Les bonnes propositions sont « stocke le glucose sous forme de glycogène »; « libère du glucose dans le sang ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 45,
+          "type": "qcm",
+          "question": "Le rôle du pancréas dans la régulation de la glycémie",
+          "options": [
+            "sécrète le glucagon",
+            "sécrète l’insuline",
+            "stocke le glycogène",
+            "filtre le sang"
+          ],
+          "reponses_correctes": [
+            0,
+            1
+          ],
+          "explication": "Les bonnes propositions sont « sécrète le glucagon »; « sécrète l’insuline ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 46,
+          "type": "qcm",
+          "question": "Les effets biologiques de l’insuline",
+          "options": [
+            "hypoglycémiant",
+            "hyperglycémiant",
+            "favorise le stockage du glucose",
+            "favorise la libération du glucose"
+          ],
+          "reponses_correctes": [
+            0,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « hypoglycémiant »; « favorise le stockage du glucose ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 47,
+          "type": "qcm",
+          "question": "Les effets biologiques du glucagon",
+          "options": [
+            "hypoglycémiant",
+            "hyperglycémiant",
+            "favorise le stockage du glucose",
+            "favorise la libération du glucose"
+          ],
+          "reponses_correctes": [
+            1,
+            3
+          ],
+          "explication": "Les bonnes propositions sont « hyperglycémiant »; « favorise la libération du glucose ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 48,
+          "type": "qcm",
+          "question": "Le diabète de type 1",
+          "options": [
+            "est insulinodépendant",
+            "survient généralement chez l’enfant",
+            "est dû à une résistance à l’insuline",
+            "nécessite des injections d’insuline"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            3
+          ],
+          "explication": "Les bonnes propositions sont « est insulinodépendant »; « survient généralement chez l’enfant »; « nécessite des injections d’insuline ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 49,
+          "type": "qcm",
+          "question": "Le diabète de type 2",
+          "options": [
+            "est non insulinodépendant",
+            "survient généralement chez l’adulte",
+            "est dû à une résistance à l’insuline",
+            "nécessite toujours des injections d’insuline"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « est non insulinodépendant »; « survient généralement chez l’adulte »; « est dû à une résistance à l’insuline ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 50,
+          "type": "qcm",
+          "question": "Les conseils de prévention du diabète",
+          "options": [
+            "pratiquer une activité physique régulière",
+            "avoir une alimentation équilibrée",
+            "éviter les graisses saturées",
+            "consommer beaucoup de sucres rapides"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « pratiquer une activité physique régulière »; « avoir une alimentation équilibrée »; « éviter les graisses saturées ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 51,
+          "type": "qcm",
+          "question": "La contamination chimique des aliments peut être due à",
+          "options": [
+            "les pesticides",
+            "les métaux lourds",
+            "les bactéries",
+            "les additifs alimentaires"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            3
+          ],
+          "explication": "Les bonnes propositions sont « les pesticides »; « les métaux lourds »; « les additifs alimentaires ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 52,
+          "type": "qcm",
+          "question": "La contamination biologique des aliments peut être due à",
+          "options": [
+            "les bactéries",
+            "les virus",
+            "les parasites",
+            "les pesticides"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « les bactéries »; « les virus »; « les parasites ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 53,
+          "type": "qcm",
+          "question": "L’utilisation des microorganismes dans les industries alimentaires",
+          "options": [
+            "fabrication du yaourt",
+            "fabrication du fromage",
+            "fabrication du pain",
+            "fabrication du vin"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "explication": "Les bonnes propositions sont « fabrication du yaourt »; « fabrication du fromage »; « fabrication du pain »; « fabrication du vin ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 54,
+          "type": "qcm",
+          "question": "Les risques liés à la contamination des aliments",
+          "options": [
+            "intoxications alimentaires",
+            "maladies infectieuses",
+            "allergies",
+            "carences nutritionnelles"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « intoxications alimentaires »; « maladies infectieuses »; « allergies ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 55,
+          "type": "qcm",
+          "question": "La malnutrition peut être due à",
+          "options": [
+            "une sous-alimentation",
+            "une suralimentation",
+            "une carence en nutriments essentiels",
+            "une alimentation équilibrée"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « une sous-alimentation »; « une suralimentation »; « une carence en nutriments essentiels ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 56,
+          "type": "qcm",
+          "question": "La sous-alimentation se caractérise par",
+          "options": [
+            "une insuffisance d’apport énergétique",
+            "une carence en protéines",
+            "une obésité",
+            "un retard de croissance"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            3
+          ],
+          "explication": "Les bonnes propositions sont « une insuffisance d’apport énergétique »; « une carence en protéines »; « un retard de croissance ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 57,
+          "type": "qcm",
+          "question": "La suralimentation se caractérise par",
+          "options": [
+            "un excès d’apport énergétique",
+            "une obésité",
+            "des maladies cardiovasculaires",
+            "une carence en vitamines"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « un excès d’apport énergétique »; « une obésité »; « des maladies cardiovasculaires ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 58,
+          "type": "qcm",
+          "question": "Les besoins qualitatifs en aliments simples",
+          "options": [
+            "dépendent de l’âge",
+            "dépendent du sexe",
+            "dépendent de l’activité physique",
+            "sont identiques pour tous"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « dépendent de l’âge »; « dépendent du sexe »; « dépendent de l’activité physique ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 59,
+          "type": "qcm",
+          "question": "Les besoins quantitatifs en aliments simples",
+          "options": [
+            "varient selon l’âge",
+            "varient selon le sexe",
+            "varient selon l’activité physique",
+            "sont constants"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « varient selon l’âge »; « varient selon le sexe »; « varient selon l’activité physique ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        },
+        {
+          "id": 60,
+          "type": "qcm",
+          "question": "La ration alimentaire équilibrée doit apporter",
+          "options": [
+            "50-55 % de glucides",
+            "30-35 % de lipides",
+            "10-15 % de protides",
+            "5 % de fibres"
+          ],
+          "reponses_correctes": [
+            0,
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « 50-55 % de glucides »; « 30-35 % de lipides »; « 10-15 % de protides ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "nutrition"
+        }
+      ]
+    },
+    {
+      "id": "genetics",
+      "titre": "Information génétique",
+      "questions": [
+        {
+          "id": 1,
+          "type": "qcm",
+          "question": "L’ARN",
+          "options": [
+            "est un polynucléotide",
+            "est le support de l’information génétique",
+            "est une molécule monocaténaire",
+            "comporte des nucléotides à cytosine, guanine, thymine et uracile"
+          ],
+          "reponses_correctes": [
+            0,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « est un polynucléotide »; « est une molécule monocaténaire ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 2,
+          "type": "qcm",
+          "question": "Un codon est un triplet de",
+          "options": [
+            "l’ADN",
+            "l’ARNr",
+            "l’ARNt",
+            "l’ARNm"
+          ],
+          "reponses_correctes": [
+            3
+          ],
+          "explication": "Les bonnes propositions sont « l’ARNm ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 3,
+          "type": "qcm",
+          "question": "La transcription",
+          "options": [
+            "se déroule dans le noyau",
+            "se déroule dans le cytoplasme",
+            "permet la synthèse de plusieurs types d’ARNm",
+            "permet la synthèse d’une copie conforme de l’ADN"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les bonnes propositions sont « se déroule dans le noyau ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 4,
+          "type": "qcm",
+          "question": "La traduction",
+          "options": [
+            "a lieu dans le noyau",
+            "nécessite de l’énergie",
+            "a lieu dans le cytoplasme au niveau des ribosomes",
+            "commence toujours au niveau du codon initiateur UAA"
+          ],
+          "reponses_correctes": [
+            1,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « nécessite de l’énergie »; « a lieu dans le cytoplasme au niveau des ribosomes ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 5,
+          "type": "qcm",
+          "question": "L’ARNm",
+          "options": [
+            "est dissocié après la traduction",
+            "détermine la synthèse des enzymes",
+            "présente une séquence d’anticodons",
+            "est l’acide désoxyribonucléique messager"
+          ],
+          "reponses_correctes": [
+            0,
+            1
+          ],
+          "explication": "Les bonnes propositions sont « est dissocié après la traduction »; « détermine la synthèse des enzymes ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 6,
+          "type": "qcm",
+          "question": "Les substances suivantes sont des acides aminés",
+          "options": [
+            "tyrosine",
+            "tyrosinase",
+            "phénylalanine",
+            "acide phénylcétonurique"
+          ],
+          "reponses_correctes": [
+            0,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « tyrosine »; « phénylalanine ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 7,
+          "type": "qcm",
+          "question": "L’albinisme",
+          "options": [
+            "est un caractère héréditaire",
+            "résulte de l’absence de mélanine",
+            "résulte de l’absence de la tyrosine",
+            "résulte de l’absence de mélanocytes"
+          ],
+          "reponses_correctes": [
+            0,
+            1
+          ],
+          "explication": "L’albinisme est héréditaire et résulte d’une diminution ou d’une absence de mélanine. Les mélanocytes sont généralement présents ; c’est leur production de mélanine qui est altérée.",
+          "origine": "fourni",
+          "theme": "genetics",
+          "note_pedagogique": "La clé fournie incluait l’absence de mélanocytes ; cette proposition a été retirée pour ne pas confondre albinisme et absence de cellules pigmentaires."
+        },
+        {
+          "id": 8,
+          "type": "qcm",
+          "question": "La déficience intellectuelle liée à la phénylcétonurie",
+          "options": [
+            "est un caractère héréditaire",
+            "résulte de l’absence de la tyrosinase",
+            "résulte de l’absence de la phénylalanine hydroxylase",
+            "résulte d’une grande consommation de l’acide phénylcétonurique"
+          ],
+          "reponses_correctes": [
+            0,
+            2
+          ],
+          "explication": "Les bonnes propositions sont « est un caractère héréditaire »; « résulte de l’absence de la phénylalanine hydroxylase ». Elles répondent à la propriété demandée ; compare chaque distracteur à la définition ou au mécanisme du cours.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 9,
+          "type": "vrai-faux",
+          "question": "L’ADN est le support de l’information génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’ADN est le support de l’information génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics",
+          "illustration": {
+            "src": "assets/dna-double-helix.jpg",
+            "alt": "Illustration de la double hélice de l’ADN",
+            "credit": "Genomics Education Programme, CC BY 2.0, Wikimedia Commons"
+          }
+        },
+        {
+          "id": 10,
+          "type": "vrai-faux",
+          "question": "L’ADN est une molécule bicaténaire en double hélice.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’ADN est une molécule bicaténaire en double hélice. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 11,
+          "type": "vrai-faux",
+          "question": "La réplication de l’ADN est semi-conservative.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La réplication de l’ADN est semi-conservative. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 12,
+          "type": "vrai-faux",
+          "question": "La transcription se fait dans le cytoplasme.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : chez les cellules eucaryotes, la transcription a lieu dans le noyau ; l’ARNm rejoint ensuite le cytoplasme.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 13,
+          "type": "vrai-faux",
+          "question": "La traduction se fait dans le noyau.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : la traduction a lieu dans le cytoplasme, sur les ribosomes, à partir de l’ARNm.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 14,
+          "type": "vrai-faux",
+          "question": "Un gène est une séquence de triplets de bases de l’ADN qui est transcrite en codon d’ARNm et qui détermine la synthèse d’une protéine.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Un gène est une séquence de triplets de bases de l’ADN qui est transcrite en codon d’ARNm et qui détermine la synthèse d’une protéine. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 15,
+          "type": "vrai-faux",
+          "question": "Une mutation est une modification de la séquence de nucléotides de l’ADN.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Une mutation est une modification de la séquence de nucléotides de l’ADN. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 16,
+          "type": "vrai-faux",
+          "question": "Une mutation peut être une substitution, une délétion ou une insertion.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Une mutation peut être une substitution, une délétion ou une insertion. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 17,
+          "type": "vrai-faux",
+          "question": "La méiose permet la formation de cellules haploïdes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La méiose permet la formation de cellules haploïdes. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 18,
+          "type": "vrai-faux",
+          "question": "La fécondation rétablit la diploïdie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La fécondation rétablit la diploïdie. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 19,
+          "type": "vrai-faux",
+          "question": "La méiose et la fécondation contribuent à la diversité génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La méiose et la fécondation contribuent à la diversité génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 20,
+          "type": "vrai-faux",
+          "question": "Le brassage interchromosomique se produit en anaphase I.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le brassage interchromosomique se produit en anaphase I. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 21,
+          "type": "vrai-faux",
+          "question": "Le brassage intrachromosomique se produit en prophase I.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le brassage intrachromosomique se produit en prophase I. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 22,
+          "type": "vrai-faux",
+          "question": "La transmission d’un couple d’allèles autosomaux suit les lois de Mendel.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La transmission d’un couple d’allèles autosomaux suit les lois de Mendel. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 23,
+          "type": "vrai-faux",
+          "question": "La transmission d’un couple d’allèles lié au sexe est différente chez les hommes et les femmes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La transmission d’un couple d’allèles lié au sexe est différente chez les hommes et les femmes. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 24,
+          "type": "vrai-faux",
+          "question": "Le phénotype est l’ensemble des caractères observables d’un individu. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 25,
+          "type": "vrai-faux",
+          "question": "Le génotype est l’ensemble des gènes d’un individu. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 26,
+          "type": "vrai-faux",
+          "question": "Un allèle est une version d’un gène. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 27,
+          "type": "vrai-faux",
+          "question": "Un individu homozygote possède deux allèles identiques pour un gène. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 28,
+          "type": "vrai-faux",
+          "question": "Un individu hétérozygote possède deux allèles différents pour un gène. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 29,
+          "type": "vrai-faux",
+          "question": "La transcription est le processus de synthèse de l’ARNm à partir de l’ADN. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 30,
+          "type": "vrai-faux",
+          "question": "La traduction est le processus de synthèse des protéines à partir de l’ARNm. — cette définition est-elle correcte ?",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Oui. La formulation reprend correctement la définition scientifique de la notion citée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 31,
+          "type": "vrai-faux",
+          "question": "Le code génétique est universel.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le code génétique est universel. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 32,
+          "type": "vrai-faux",
+          "question": "Le code génétique est redondant.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le code génétique est redondant. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 33,
+          "type": "vrai-faux",
+          "question": "Un codon est un triplet de nucléotides de l’ARNm.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Un codon est un triplet de nucléotides de l’ARNm. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 34,
+          "type": "vrai-faux",
+          "question": "Un anticodon est un triplet de nucléotides de l’ARNt.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Un anticodon est un triplet de nucléotides de l’ARNt. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 35,
+          "type": "vrai-faux",
+          "question": "La réplication de l’ADN se produit avant la division cellulaire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La réplication de l’ADN se produit avant la division cellulaire. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 36,
+          "type": "vrai-faux",
+          "question": "La mutation est à l’origine de la diversité génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La mutation est à l’origine de la diversité génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 37,
+          "type": "vrai-faux",
+          "question": "Les techniques du génie génétique permettent de modifier le génome.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les techniques du génie génétique permettent de modifier le génome. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 38,
+          "type": "vrai-faux",
+          "question": "Le clonage est une technique de reproduction asexuée.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le clonage est une technique de reproduction asexuée. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 39,
+          "type": "vrai-faux",
+          "question": "Les OGM sont des organismes génétiquement modifiés.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les OGM sont des organismes génétiquement modifiés. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 40,
+          "type": "vrai-faux",
+          "question": "La thérapie génique consiste à introduire un gène normal dans les cellules d’un patient.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La thérapie génique consiste à introduire un gène normal dans les cellules d’un patient. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 41,
+          "type": "vrai-faux",
+          "question": "Les groupes sanguins sont déterminés par des allèles.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Les groupes sanguins sont déterminés par des allèles. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 42,
+          "type": "vrai-faux",
+          "question": "Le groupe sanguin O est caractérisé par l’absence d’antigènes A et B.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le groupe sanguin O est caractérisé par l’absence d’antigènes A et B. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 43,
+          "type": "vrai-faux",
+          "question": "Le groupe sanguin AB est caractérisé par la présence des antigènes A et B.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : Le groupe sanguin AB est caractérisé par la présence des antigènes A et B. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 44,
+          "type": "vrai-faux",
+          "question": "La mucoviscidose est une maladie génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La mucoviscidose est une maladie génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 45,
+          "type": "vrai-faux",
+          "question": "La drépanocytose est une maladie génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La drépanocytose est une maladie génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 46,
+          "type": "vrai-faux",
+          "question": "La phénylcétonurie est une maladie génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : La phénylcétonurie est une maladie génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 47,
+          "type": "vrai-faux",
+          "question": "L’albinisme est une maladie génétique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Vrai : L’albinisme est une maladie génétique. Cette propriété correspond à la notion de cours évaluée.",
+          "origine": "fourni",
+          "theme": "genetics"
+        },
+        {
+          "id": 48,
+          "type": "vrai-faux",
+          "question": "Dans une maladie autosomale récessive, un individu atteint a généralement hérité d’un allèle muté de chacun de ses parents.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Dans le modèle autosomal récessif classique, l’individu atteint possède deux copies altérées du gène, une héritée de chaque parent.",
+          "origine": "fourni",
+          "theme": "genetics",
+          "note_pedagogique": "L’énoncé fourni a été reformulé : les parents ne sont pas nécessairement tous deux des porteurs non atteints."
+        },
+        {
+          "id": 49,
+          "type": "qcm",
+          "question": "Dans une cellule somatique humaine, combien de chromosomes trouve-t-on généralement ?",
+          "options": [
+            "46 chromosomes, organisés en 23 paires",
+            "23 chromosomes organisés en 46 paires",
+            "44 chromosomes, sans chromosomes sexuels",
+            "92 paires de chromosomes"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La plupart des cellules somatiques humaines possèdent 46 chromosomes, répartis en 23 paires ; les gamètes en possèdent 23.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 50,
+          "type": "qcm",
+          "question": "Dans l’ADN, quelles bases sont complémentaires ?",
+          "options": [
+            "A avec T, et C avec G",
+            "A avec C, et T avec G",
+            "A avec U, et C avec G",
+            "A avec G, et T avec C"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Dans l’ADN, l’adénine s’apparie avec la thymine et la cytosine avec la guanine.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 51,
+          "type": "vrai-faux",
+          "question": "Lors de la réplication semi-conservative, chaque molécule d’ADN fille contient un brin ancien et un brin nouvellement synthétisé.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Chaque brin parental sert de modèle ; les deux molécules obtenues conservent chacune un brin d’origine.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 52,
+          "type": "qcm",
+          "question": "Quel est le rôle principal de l’ARN messager ?",
+          "options": [
+            "Transporter l’information copiée d’un gène vers un ribosome",
+            "Former la membrane de la cellule",
+            "Stocker les lipides",
+            "Détruire les chromosomes"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "L’ARNm transporte une copie de l’information génétique jusqu’au ribosome, où elle sert de modèle à la synthèse d’une protéine.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 53,
+          "type": "vrai-faux",
+          "question": "L’anticodon d’un ARNt peut s’apparier avec un codon complémentaire de l’ARNm.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La complémentarité codon–anticodon permet d’apporter au ribosome l’acide aminé correspondant.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 54,
+          "type": "qcm",
+          "question": "Un chromosome eucaryote est principalement constitué :",
+          "options": [
+            "D’ADN associé à des protéines",
+            "D’ARN uniquement",
+            "De lipides et de glucose",
+            "D’une seule protéine"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Un chromosome est une longue molécule d’ADN organisée avec des protéines, notamment des histones.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 55,
+          "type": "vrai-faux",
+          "question": "Chez tous les individus d’une même espèce, chaque gène possède nécessairement le même allèle.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : un gène peut exister sous plusieurs versions appelées allèles, ce qui contribue à la diversité génétique.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 56,
+          "type": "vrai-faux",
+          "question": "La méiose réduit de moitié le nombre de chromosomes des cellules qui deviennent des gamètes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La méiose fait passer d’une cellule diploïde à des cellules haploïdes, qui contiennent un seul exemplaire de chaque paire.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 57,
+          "type": "vrai-faux",
+          "question": "Un crossing-over peut échanger des segments entre chromosomes homologues en prophase I de méiose.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Cet échange, ou brassage intrachromosomique, crée de nouvelles associations d’allèles.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 58,
+          "type": "vrai-faux",
+          "question": "Les deux allèles d’un gène autosomal se séparent lors de la formation des gamètes.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Chaque gamète ne reçoit qu’un seul des deux allèles d’un gène autosomal, selon la ségrégation des chromosomes homologues.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 59,
+          "type": "vrai-faux",
+          "question": "Pour une maladie autosomale récessive, un individu hétérozygote peut être porteur sans présenter la maladie.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Dans le modèle récessif classique, une seule copie de l’allèle muté ne suffit généralement pas à exprimer le phénotype malade.",
+          "origine": "complément",
+          "theme": "genetics"
+        },
+        {
+          "id": 60,
+          "type": "vrai-faux",
+          "question": "Le phénotype peut dépendre à la fois du génotype et de l’environnement.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les caractères observables résultent de l’expression des gènes dans un environnement donné ; leur importance varie selon le caractère.",
+          "origine": "complément",
+          "theme": "genetics"
+        }
+      ]
+    },
+    {
+      "id": "earth",
+      "titre": "Dynamique du globe terrestre et évolution biologique",
+      "questions": [
+        {
+          "id": 1,
+          "type": "qcm",
+          "question": "Quelles sont les trois grandes enveloppes internes de la Terre ?",
+          "options": [
+            "Croûte, manteau et noyau",
+            "Atmosphère, hydrosphère et biosphère",
+            "Lithosphère, stratosphère et noyau",
+            "Croûte, océan et magma"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La structure interne est classiquement décrite en croûte, manteau et noyau ; chaque enveloppe a une composition et des propriétés distinctes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 2,
+          "type": "vrai-faux",
+          "question": "La lithosphère comprend la croûte et la partie supérieure rigide du manteau.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La lithosphère est l’enveloppe mécanique rigide découpée en plaques.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 3,
+          "type": "vrai-faux",
+          "question": "L’asthénosphère est une couche entièrement liquide sur laquelle flottent les plaques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’asthénosphère est solide mais ductile à l’échelle géologique ; elle peut se déformer lentement.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 4,
+          "type": "vrai-faux",
+          "question": "Les plaques lithosphériques se déplacent les unes par rapport aux autres.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les mouvements lents des plaques expliquent notamment l’ouverture des océans, les subductions et les failles transformantes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 5,
+          "type": "qcm",
+          "question": "À une limite divergente entre deux plaques océaniques, on observe généralement :",
+          "options": [
+            "La formation de nouvelle lithosphère au niveau d’une dorsale",
+            "La disparition de toute activité magmatique",
+            "La collision de deux continents",
+            "La plongée systématique d’une plaque continentale"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "À une dorsale, les plaques s’écartent et du magma remonte ; en refroidissant, il forme de la nouvelle croûte océanique.",
+          "origine": "complément",
+          "theme": "earth",
+          "illustration": {
+            "src": "assets/tectonic-plate-boundaries.png",
+            "alt": "Schéma des principaux types de limites entre plaques tectoniques",
+            "credit": "Jose F. Vigil / USGS, domaine public, Wikimedia Commons"
+          }
+        },
+        {
+          "id": 6,
+          "type": "qcm",
+          "question": "Que se passe-t-il le plus souvent lorsqu’une plaque océanique converge avec une plaque continentale ?",
+          "options": [
+            "La plaque océanique plonge sous la plaque continentale",
+            "La plaque continentale disparaît sous l’océanique, toujours",
+            "Les deux plaques s’éloignent",
+            "Les deux plaques cessent de bouger"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Plus dense, la lithosphère océanique peut s’enfoncer sous la lithosphère continentale : c’est la subduction.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 7,
+          "type": "qcm",
+          "question": "La collision de deux lithosphères continentales peut former :",
+          "options": [
+            "Une chaîne de montagnes",
+            "Une nouvelle dorsale océanique",
+            "Une fosse au milieu d’un océan uniquement",
+            "Une couche de gaz"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La convergence continentale raccourcit et épaissit la croûte, ce qui peut édifier une chaîne de montagnes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 8,
+          "type": "vrai-faux",
+          "question": "Une limite transformante correspond principalement à un coulissage horizontal entre deux plaques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les plaques glissent latéralement l’une contre l’autre ; ce mouvement peut produire des séismes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 9,
+          "type": "vrai-faux",
+          "question": "L’expansion océanique se produit au niveau des dorsales.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La création de croûte à la dorsale éloigne progressivement les fonds océaniques plus anciens.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 10,
+          "type": "qcm",
+          "question": "En moyenne, la lithosphère océanique est :",
+          "options": [
+            "Plus dense et plus mince que la lithosphère continentale",
+            "Moins dense et beaucoup plus épaisse",
+            "Composée uniquement de granite",
+            "Toujours plus ancienne que les continents"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La croûte océanique basaltique est plus dense et généralement plus mince que la croûte continentale.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 11,
+          "type": "qcm",
+          "question": "Quelle roche est fréquemment associée à la croûte océanique ?",
+          "options": [
+            "Le basalte",
+            "Le calcaire uniquement",
+            "Le charbon",
+            "Le sel gemme"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Le basalte est une roche magmatique fréquente en surface de la croûte océanique ; le gabbro se forme en profondeur dans cette croûte.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 12,
+          "type": "qcm",
+          "question": "Le foyer (hypocentre) d’un séisme est :",
+          "options": [
+            "Le point en profondeur où débute la rupture",
+            "Le point le plus éloigné de la faille",
+            "Le sommet d’un volcan",
+            "La limite entre le noyau et le manteau"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La rupture débute au foyer en profondeur ; l’épicentre est le point de surface situé à sa verticale.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 13,
+          "type": "vrai-faux",
+          "question": "L’épicentre d’un séisme est le point de la surface situé à la verticale du foyer.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La distinction foyer–épicentre aide à décrire la localisation d’un séisme.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 14,
+          "type": "qcm",
+          "question": "Les ondes sismiques sont :",
+          "options": [
+            "Des vibrations qui se propagent depuis le foyer",
+            "Des courants océaniques",
+            "Des vents dans l’atmosphère",
+            "Des couches de roches immobiles"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Un séisme libère de l’énergie sous forme d’ondes qui se propagent dans la Terre et à sa surface.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 15,
+          "type": "vrai-faux",
+          "question": "Les ondes S ne se propagent pas dans les milieux liquides.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Le comportement des ondes S fournit des indices sur les propriétés des matériaux traversés, notamment le noyau externe liquide.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 16,
+          "type": "qcm",
+          "question": "Le magma désigne :",
+          "options": [
+            "Un matériau rocheux fondu présent en profondeur",
+            "De la lave déjà refroidie",
+            "Une roche sédimentaire",
+            "De l’eau souterraine"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Le magma est un mélange de liquide, de cristaux et parfois de gaz en profondeur ; à la surface, on parle de lave.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 17,
+          "type": "qcm",
+          "question": "Une lave fluide, pauvre en silice, donne le plus souvent un volcanisme :",
+          "options": [
+            "Effusif, avec des coulées",
+            "Explosif uniquement",
+            "Sans éruption possible",
+            "Lié à une météorite"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Une lave relativement fluide libère plus facilement ses gaz et s’écoule ; les magmas visqueux retiennent davantage les gaz.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 18,
+          "type": "vrai-faux",
+          "question": "Les éruptions explosives sont souvent favorisées par un magma visqueux riche en gaz.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La viscosité freine la libération des gaz, ce qui peut accroître la pression avant l’éruption.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 19,
+          "type": "qcm",
+          "question": "Le refroidissement d’un magma peut former :",
+          "options": [
+            "Une roche magmatique",
+            "Un fossile directement",
+            "Une cellule vivante",
+            "Une vague sismique"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Quand le magma ou la lave refroidit et cristallise, il forme une roche magmatique.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 20,
+          "type": "vrai-faux",
+          "question": "Tous les volcans se trouvent exclusivement sur les limites des plaques.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : la majorité est liée aux limites des plaques, mais certains volcans se forment aussi au-dessus de points chauds intraplaques.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 21,
+          "type": "qcm",
+          "question": "Quel est le lien entre l’âge du plancher océanique et la distance à une dorsale ?",
+          "options": [
+            "Il est généralement plus ancien quand on s’éloigne de la dorsale",
+            "Il est toujours plus jeune loin de la dorsale",
+            "Il a le même âge partout",
+            "L’âge dépend uniquement de la profondeur"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La croûte se forme à la dorsale puis s’écarte ; l’âge du plancher augmente donc généralement avec la distance à l’axe.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 22,
+          "type": "vrai-faux",
+          "question": "Des bandes magnétiques symétriques de part et d’autre de certaines dorsales soutiennent l’expansion océanique.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les basaltes enregistrent le champ magnétique au moment de leur refroidissement ; la symétrie des bandes reflète la création bilatérale du plancher.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 23,
+          "type": "qcm",
+          "question": "Quel type d’indice a historiquement soutenu l’idée d’une ancienne réunion des continents ?",
+          "options": [
+            "L’emboîtement de certaines côtes et la présence de fossiles similaires sur des continents séparés",
+            "La couleur actuelle des océans",
+            "La forme des nuages",
+            "Les saisons"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La complémentarité de certains continents et des indices géologiques ou fossiles communs ont soutenu l’hypothèse de la dérive des continents.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 24,
+          "type": "vrai-faux",
+          "question": "La distribution de roches et de chaînes géologiques comparables sur des continents séparés peut aider à reconstituer leur histoire.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Des continuités géologiques sont cohérentes avec le déplacement passé des continents.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 25,
+          "type": "qcm",
+          "question": "La chaleur interne de la Terre contribue notamment :",
+          "options": [
+            "Aux mouvements lents du manteau et à la dynamique des plaques",
+            "À arrêter les séismes",
+            "À supprimer la gravité",
+            "À créer les marées uniquement"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La chaleur interne participe aux mouvements de convection du manteau et au fonctionnement de la tectonique, dans un modèle simplifié.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 26,
+          "type": "qcm",
+          "question": "La couche externe solide et relativement mince de la Terre est :",
+          "options": [
+            "La croûte",
+            "Le noyau interne",
+            "Le manteau inférieur",
+            "L’atmosphère"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La croûte est l’enveloppe rocheuse externe ; elle est continentale ou océanique.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 27,
+          "type": "vrai-faux",
+          "question": "Le noyau externe terrestre est liquide, tandis que le noyau interne est solide.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les propriétés des ondes sismiques montrent que le noyau externe est liquide et le noyau interne solide.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 28,
+          "type": "qcm",
+          "question": "Une faille géologique est :",
+          "options": [
+            "Une fracture accompagnée d’un déplacement de blocs rocheux",
+            "Un type de fossile",
+            "Une couche de l’atmosphère",
+            "Un minéral dissous dans l’eau"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Une faille est une cassure le long de laquelle des blocs se sont déplacés ; son activité peut être à l’origine de séismes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 29,
+          "type": "vrai-faux",
+          "question": "Un aléa naturel et un risque sont exactement la même notion.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’aléa est la possibilité d’un phénomène ; le risque dépend aussi de l’exposition et de la vulnérabilité des personnes et des biens.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 30,
+          "type": "qcm",
+          "question": "Quel comportement réduit le risque lors d’un séisme ?",
+          "options": [
+            "Appliquer les consignes de sécurité et se mettre à l’abri de façon adaptée",
+            "Prendre l’ascenseur pendant les secousses",
+            "Se placer près des vitres",
+            "Ignorer les consignes locales"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La préparation, les constructions adaptées et le respect des consignes réduisent la vulnérabilité ; on ne peut pas empêcher l’aléa.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 31,
+          "type": "qcm",
+          "question": "Un fossile est :",
+          "options": [
+            "Un reste ou une trace d’un organisme ancien conservé dans une roche",
+            "Une roche volcanique récente uniquement",
+            "Un animal vivant",
+            "Une molécule d’ADN intacte dans toute roche"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les fossiles comprennent des restes ou des traces d’organismes anciens conservés dans des conditions favorables.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 32,
+          "type": "vrai-faux",
+          "question": "La succession des fossiles dans les couches géologiques apporte des indices sur les changements de la vie au cours du temps.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les fossiles permettent d’étudier l’histoire de la biodiversité et les apparitions ou disparitions d’organismes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 33,
+          "type": "qcm",
+          "question": "Dans une série de couches sédimentaires non bouleversée, le principe de superposition indique généralement que :",
+          "options": [
+            "Les couches inférieures sont plus anciennes que celles qui les recouvrent",
+            "Les couches supérieures sont toujours les plus anciennes",
+            "Toutes les couches ont le même âge",
+            "Les fossiles ne peuvent pas se conserver"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "En l’absence de perturbation, une couche déposée plus tôt se trouve sous les couches déposées ensuite.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 34,
+          "type": "qcm",
+          "question": "Un fossile stratigraphique utile est généralement celui d’une espèce :",
+          "options": [
+            "De courte durée d’existence et largement répartie",
+            "Qui n’a vécu qu’en un seul petit lieu pendant des millions d’années",
+            "Toujours actuelle",
+            "Sans caractères reconnaissables"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Une espèce répandue mais limitée à une période relativement courte aide à comparer l’âge de couches éloignées.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 35,
+          "type": "qcm",
+          "question": "Des structures homologues chez plusieurs espèces indiquent souvent :",
+          "options": [
+            "Une origine évolutive commune, même si leur fonction diffère",
+            "Une fonction toujours identique",
+            "Une absence de parenté",
+            "Une apparition simultanée"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les structures homologues partagent un plan d’organisation hérité d’un ancêtre commun, même si elles ont évolué vers des fonctions différentes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 36,
+          "type": "qcm",
+          "question": "Des structures analogues sont des structures qui :",
+          "options": [
+            "Ont une fonction proche mais une origine évolutive différente",
+            "Ont toujours les mêmes os",
+            "Prouvent une parenté directe récente",
+            "Sont dépourvues de fonction"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "L’analogie concerne une ressemblance fonctionnelle qui peut résulter d’évolutions indépendantes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 37,
+          "type": "vrai-faux",
+          "question": "Des ressemblances observées au cours du développement embryonnaire peuvent constituer un indice de parenté évolutive.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Des caractères embryonnaires partagés peuvent refléter un héritage commun, à interpréter avec d’autres indices.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 38,
+          "type": "qcm",
+          "question": "La comparaison des séquences d’ADN entre espèces peut aider à :",
+          "options": [
+            "Évaluer leur parenté évolutive",
+            "Mesurer directement leur taille adulte",
+            "Déterminer leur âge sans aucune donnée",
+            "Prouver qu’elles vivent dans le même milieu"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les ressemblances moléculaires, notamment dans l’ADN, contribuent à reconstruire les liens de parenté.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 39,
+          "type": "qcm",
+          "question": "Pour que la sélection naturelle puisse modifier une population, il faut notamment :",
+          "options": [
+            "Des variations héréditaires et des différences de succès reproducteur",
+            "Que chaque individu décide de changer",
+            "L’absence totale de reproduction",
+            "Que le milieu reste toujours identique"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La sélection agit sur des variations héréditaires lorsque certains phénotypes contribuent davantage à la génération suivante.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 40,
+          "type": "vrai-faux",
+          "question": "La sélection naturelle choisit consciemment les caractères dont les individus ont besoin.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : la sélection n’a pas d’intention. Les individus porteurs de variations avantageuses dans un contexte donné peuvent laisser davantage de descendants.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 41,
+          "type": "vrai-faux",
+          "question": "Une adaptation évolutive se met en place dans une population au fil des générations, et non parce qu’un individu en a besoin.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les fréquences des caractères héréditaires changent au fil des générations sous l’effet de la sélection et d’autres mécanismes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 42,
+          "type": "qcm",
+          "question": "Une mutation de l’ADN peut :",
+          "options": [
+            "Créer un nouvel allèle",
+            "Garantir un avantage à son porteur",
+            "Toujours provoquer une maladie",
+            "Faire évoluer immédiatement toute une population"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Une mutation crée une nouvelle variante génétique ; ses effets peuvent être neutres, défavorables ou avantageux selon le contexte.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 43,
+          "type": "qcm",
+          "question": "L’isolement reproducteur entre populations peut conduire à :",
+          "options": [
+            "La formation de nouvelles espèces au cours du temps",
+            "La disparition de toutes les mutations",
+            "La fusion obligatoire des populations",
+            "L’arrêt des générations"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Lorsque les échanges génétiques deviennent limités et que les populations divergent, une spéciation peut se produire.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 44,
+          "type": "vrai-faux",
+          "question": "La spéciation correspond à la formation de nouvelles espèces.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La spéciation résulte d’une divergence évolutive accompagnée d’un isolement reproducteur selon le concept biologique classique.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 45,
+          "type": "qcm",
+          "question": "La dérive génétique a souvent un effet plus marqué :",
+          "options": [
+            "Dans une petite population",
+            "Dans une population infinie",
+            "Uniquement chez les fossiles",
+            "Seulement dans les océans"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Le hasard de la reproduction peut modifier les fréquences alléliques ; son effet est plus fort dans les petites populations.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 46,
+          "type": "vrai-faux",
+          "question": "La migration d’individus entre populations peut transférer des allèles d’une population à une autre.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Le flux de gènes relie les populations en transportant des variantes génétiques.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 47,
+          "type": "qcm",
+          "question": "Une population bactérienne devient résistante à un antibiotique principalement parce que :",
+          "options": [
+            "Les bactéries résistantes préexistantes survivent et se reproduisent davantage sous traitement",
+            "Les bactéries décident de fabriquer la mutation utile",
+            "L’antibiotique transforme toutes les bactéries de la même façon",
+            "La résistance apparaît toujours chez chaque individu exposé"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "L’antibiotique exerce une pression de sélection : les bactéries déjà résistantes ont un avantage relatif et peuvent devenir plus fréquentes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 48,
+          "type": "qcm",
+          "question": "Le mélanisme industriel est souvent utilisé comme exemple de :",
+          "options": [
+            "Sélection naturelle en réponse à un environnement",
+            "Formation immédiate d’un fossile",
+            "Dérive des continents",
+            "Reproduction sans hérédité"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Dans certaines populations de papillons, les phénotypes les mieux camouflés dans un environnement donné ont eu un avantage de survie.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 49,
+          "type": "qcm",
+          "question": "La sélection artificielle est réalisée principalement par :",
+          "options": [
+            "Les humains qui choisissent quels individus se reproduisent",
+            "Les volcans qui déplacent les plaques",
+            "Les fossiles qui mutent",
+            "Les séismes"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "En sélection artificielle, les humains favorisent volontairement la reproduction d’individus possédant des caractères recherchés.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 50,
+          "type": "qcm",
+          "question": "Dans un arbre de parenté, un nœud représente généralement :",
+          "options": [
+            "Un ancêtre commun hypothétique",
+            "Un organisme qui vit forcément aujourd’hui",
+            "Une mutation unique toujours visible",
+            "Une échelle de taille"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Un nœud correspond à l’ancêtre commun hypothétique des lignées qui en partent.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 51,
+          "type": "vrai-faux",
+          "question": "Deux espèces proches sur un arbre de parenté partagent un ancêtre commun plus récent que deux espèces éloignées sur cet arbre.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La proximité se lit à partir du dernier ancêtre commun, et non de la position gauche-droite des noms.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 52,
+          "type": "vrai-faux",
+          "question": "Des caractères ressemblants peuvent apparaître indépendamment dans des lignées différentes sous des contraintes similaires.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Cette évolution convergente peut produire des analogies qui ne signalent pas à elles seules une parenté proche.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 53,
+          "type": "qcm",
+          "question": "Un fossile de transition est utile parce qu’il :",
+          "options": [
+            "Présente un assemblage de caractères reliant des groupes au cours de leur histoire",
+            "Prouve que l’évolution est toujours linéaire",
+            "Est nécessairement l’ancêtre direct de toutes les espèces actuelles",
+            "N’a aucun caractère identifiable"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les formes fossiles présentant des combinaisons de caractères aident à documenter les transformations évolutives, sans être nécessairement des ancêtres directs.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 54,
+          "type": "vrai-faux",
+          "question": "L’évolution a pour objectif de rendre les espèces parfaites.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            1
+          ],
+          "explication": "Faux : l’évolution n’a pas de but. Les populations changent selon les variations et les conditions de leur environnement.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 55,
+          "type": "vrai-faux",
+          "question": "Les individus d’une population peuvent présenter des variations de caractères.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La variation au sein des populations fournit la matière première de plusieurs mécanismes évolutifs.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 56,
+          "type": "qcm",
+          "question": "Laquelle de ces situations peut augmenter la diversité génétique d’une population ?",
+          "options": [
+            "L’apparition de mutations et le brassage lié à la reproduction sexuée",
+            "La copie strictement identique de chaque génome sans mutation",
+            "L’absence de reproduction pendant des générations",
+            "La disparition de tous les allèles"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les mutations créent de nouveaux allèles et la reproduction sexuée recombine les variantes déjà présentes.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 57,
+          "type": "vrai-faux",
+          "question": "La reproduction sexuée peut produire des descendants génétiquement différents de leurs parents.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La méiose et la fécondation recombinent les allèles et contribuent à la diversité des descendants.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 58,
+          "type": "qcm",
+          "question": "Si l’environnement change, un caractère auparavant avantageux :",
+          "options": [
+            "Peut ne plus procurer le même avantage",
+            "Devient forcément utile pour toujours",
+            "Disparaît immédiatement chez chaque individu",
+            "N’est jamais soumis à la sélection"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "L’avantage d’un caractère dépend du contexte ; la sélection naturelle varie donc avec l’environnement.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 59,
+          "type": "qcm",
+          "question": "Quelle phrase décrit le mieux les relations évolutives entre humains et autres primates actuels ?",
+          "options": [
+            "Les humains et les autres primates actuels partagent des ancêtres communs",
+            "Les humains descendent des singes actuels",
+            "Les primates actuels n’ont aucun lien de parenté",
+            "Toutes les espèces actuelles sont identiques"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "Les humains et les autres primates actuels appartiennent à des lignées distinctes qui partagent des ancêtres communs dans le passé.",
+          "origine": "complément",
+          "theme": "earth"
+        },
+        {
+          "id": 60,
+          "type": "vrai-faux",
+          "question": "La biodiversité actuelle est le résultat d’une histoire comprenant des apparitions, des transformations et des extinctions.",
+          "options": [
+            "Vrai",
+            "Faux"
+          ],
+          "reponses_correctes": [
+            0
+          ],
+          "explication": "La biodiversité change au cours du temps sous l’effet de l’évolution et des événements qui affectent les populations.",
+          "origine": "complément",
+          "theme": "earth"
+        }
+      ]
+    }
+  ]
+}
